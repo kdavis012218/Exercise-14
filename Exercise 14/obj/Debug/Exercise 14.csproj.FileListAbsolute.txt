@@ -1,0 +1,7 @@
+C:\Users\Grand Circus Student\source\repos\Exercise 14\Exercise 14\bin\Debug\Exercise 14.exe.config
+C:\Users\Grand Circus Student\source\repos\Exercise 14\Exercise 14\bin\Debug\Exercise 14.exe
+C:\Users\Grand Circus Student\source\repos\Exercise 14\Exercise 14\bin\Debug\Exercise 14.pdb
+C:\Users\Grand Circus Student\source\repos\Exercise 14\Exercise 14\obj\Debug\Exercise 14.csprojResolveAssemblyReference.cache
+C:\Users\Grand Circus Student\source\repos\Exercise 14\Exercise 14\obj\Debug\Exercise 14.csproj.CoreCompileInputs.cache
+C:\Users\Grand Circus Student\source\repos\Exercise 14\Exercise 14\obj\Debug\Exercise 14.exe
+C:\Users\Grand Circus Student\source\repos\Exercise 14\Exercise 14\obj\Debug\Exercise 14.pdb
